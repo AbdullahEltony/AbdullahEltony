@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since [Year you started coding]<br>📚 I'm currently learning advanced React techniques, Redux Toolkit, and exploring Next.js performance optimizations.<br>🎯 Goals: 
+<p align="left">✨ Creating bugs since [Year you started coding]<br>📚 I'm currently learning advanced React techniques, Redux Toolkit, and exploring Next.js performance optimizations.<br>🎯 Goals: <br>
   <strong>Short-term goals:</strong><br>
   - Secure a front-end development internship to gain real-world experience.<br>
   - Enhance my proficiency in React.js and Next.js by building complex web applications.<br>
-  - Contribute to open-source projects to expand my collaboration skills.<br><br>
+  - Contribute to open-source projects to expand my collaboration skills.<br>
 
   <strong>Long-term goals:</strong><br>
   - Become a senior front-end developer with expertise in building scalable and performance-optimized applications.<br>
