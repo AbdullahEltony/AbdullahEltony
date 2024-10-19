@@ -14,12 +14,12 @@
   <strong>Short-term goals:</strong><br>
   - Secure a front-end development internship to gain real-world experience.<br>
   - Enhance my proficiency in React.js and Next.js by building complex web applications.<br>
-  - Contribute to open-source projects to expand my collaboration skills.<br>
+  - Contribute to open-source projects to expand my collaboration skills.<br><br>
 
   <strong>Long-term goals:</strong><br>
   - Become a senior front-end developer with expertise in building scalable and performance-optimized applications.<br>
   - Master full-stack development by learning back-end technologies like Node.js and .NET.<br>
-  - Lead or contribute to innovative projects in a tech company or startup, solving real-world challenges.<br>
+  - Lead or contribute to innovative projects in a tech company or startup, solving real-world challenges.<br><br>
 
 🎲 Fun fact: I enjoy solving coding challenges and puzzles during my free time, which helps sharpen my problem-solving skills.</p>
 
@@ -38,11 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
